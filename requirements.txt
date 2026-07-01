@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+watchdog
+sqlalchemy
+psycopg2-binary
+python-dotenv
+pydantic
+pytest
+httpx
+llama-cpp-python==0.2.90
+huggingface-hub==0.23.0

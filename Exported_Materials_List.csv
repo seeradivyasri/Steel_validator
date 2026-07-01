@@ -1,0 +1,425 @@
+﻿name,category,dimensions,unit_weight,unit,tolerance_min_pct,tolerance_max_pct,aliases,status
+ISA 75x75x6,Angles,"[75, 75, 6]",6.8,kg/m,5.0,5.0,"[""ANG75""]",MaterialStatusEnum.Active
+ISA 100x100x8,Angles,"[100, 100, 8]",12.1,kg/m,5.0,5.0,"[""ANG100""]",MaterialStatusEnum.Active
+ISMB 100,Beams,[100],11.5,kg/m,5.0,5.0,"[""BEAM100"", ""MB100""]",MaterialStatusEnum.Active
+ISMB 150,Beams,[150],14.9,kg/m,5.0,5.0,"[""BEAM150"", ""MB150""]",MaterialStatusEnum.Active
+ISMB 200,Beams,[200],25.4,kg/m,5.0,5.0,"[""BEAM200"", ""MB200""]",MaterialStatusEnum.Active
+ISMB 250,Beams,[250],37.3,kg/m,5.0,5.0,"[""BEAM250""]",MaterialStatusEnum.Active
+ISMB 300,Beams,[300],46.1,kg/m,5.0,5.0,"[""BEAM300""]",MaterialStatusEnum.Active
+ISMC 75,Channels,[75],6.8,kg/m,5.0,5.0,"[""CHNL75"", ""CHANNEL75"", ""RAIPUR75""]",MaterialStatusEnum.Active
+ISMC 100,Channels,[100],9.56,kg/m,5.0,5.0,"[""CHNL100"", ""CHANNEL100"", ""RAIPUR100""]",MaterialStatusEnum.Active
+ISMC 125,Channels,[125],13.1,kg/m,5.0,5.0,"[""CHNL125""]",MaterialStatusEnum.Active
+ISMC 150,Channels,[150],16.8,kg/m,5.0,5.0,"[""CHNL150""]",MaterialStatusEnum.Active
+ISMC 200,Channels,[200],22.1,kg/m,5.0,5.0,"[""CHNL200""]",MaterialStatusEnum.Active
+TMT 8mm,Bars,[8],0.395,kg/m,7.0,7.0,"[""TMT8"", ""REBAR8""]",MaterialStatusEnum.Active
+TMT 10mm,Bars,[10],0.617,kg/m,7.0,7.0,"[""TMT10"", ""REBAR10""]",MaterialStatusEnum.Active
+TMT 12mm,Bars,[12],0.888,kg/m,7.0,7.0,"[""TMT12"", ""REBAR12""]",MaterialStatusEnum.Active
+TMT 16mm,Bars,[16],1.58,kg/m,7.0,7.0,"[""TMT16""]",MaterialStatusEnum.Active
+TMT 20mm,Bars,[20],2.47,kg/m,7.0,7.0,"[""TMT20""]",MaterialStatusEnum.Active
+TMT 25mm,Bars,[25],3.85,kg/m,7.0,7.0,"[""TMT25""]",MaterialStatusEnum.Active
+MS Plate 6mm,Plates,[6],47.1,kg/m,5.0,5.0,"[""PLATE6"", ""PLT6""]",MaterialStatusEnum.Active
+MS Plate 8mm,Plates,[8],62.8,kg/m,5.0,5.0,"[""PLATE8"", ""PLT8""]",MaterialStatusEnum.Active
+MS Plate 10mm,Plates,[10],78.5,kg/m,5.0,5.0,"[""PLATE10"", ""PLT10""]",MaterialStatusEnum.Active
+MS Plate 12mm,Plates,[12],94.2,kg/m,5.0,5.0,"[""PLATE12"", ""PLT12""]",MaterialStatusEnum.Active
+MS Pipe 15mm,Pipes,[15],1.21,kg/m,6.0,6.0,"[""PIPE15""]",MaterialStatusEnum.Active
+MS Pipe 20mm,Pipes,[20],1.68,kg/m,6.0,6.0,"[""PIPE20""]",MaterialStatusEnum.Active
+MS Pipe 25mm,Pipes,[25],2.67,kg/m,6.0,6.0,"[""PIPE25""]",MaterialStatusEnum.Active
+MS Pipe 32mm,Pipes,[32],3.56,kg/m,6.0,6.0,"[""PIPE32""]",MaterialStatusEnum.Active
+8MM Square Rod,Bars,[8.0],3.2,kg/piece,5.0,5.0,"[""SQR8""]",MaterialStatusEnum.Active
+9MM Square Rod,Bars,[9.0],3.6,kg/piece,5.0,5.0,"[""SQR9""]",MaterialStatusEnum.Active
+10MM Square Rod,Bars,[10.0],5.0,kg/piece,5.0,5.0,"[""SQR10""]",MaterialStatusEnum.Active
+12MM Square Rod,Bars,[12.0],6.75,kg/piece,5.0,5.0,"[""SQR12""]",MaterialStatusEnum.Active
+16MM Square Rod,Bars,[16.0],11.0,kg/piece,5.0,5.0,"[""SQR16""]",MaterialStatusEnum.Active
+20MM Square Rod,Bars,[20.0],19.0,kg/piece,5.0,5.0,"[""SQR20""]",MaterialStatusEnum.Active
+25MM Square Rod,Bars,[25.0],28.0,kg/piece,5.0,5.0,"[""SQR25""]",MaterialStatusEnum.Active
+32MM Square Rod,Bars,[32.0],48.0,kg/piece,5.0,5.0,"[""SQR32""]",MaterialStatusEnum.Active
+40MM square Rod,Bars,[40.0],75.0,kg/piece,5.0,5.0,"[""SQR40""]",MaterialStatusEnum.Active
+50MM square Rod,Bars,[50.0],118.0,kg/piece,5.0,5.0,"[""SQR50""]",MaterialStatusEnum.Active
+10MM Round Rod,Bars,[10.0],3.7,kg/piece,5.0,5.0,"[""RR10""]",MaterialStatusEnum.Active
+12MM Round Rod,Bars,[12.0],5.3,kg/piece,5.0,5.0,"[""RR12""]",MaterialStatusEnum.Active
+16MM Round Rod Vizag Steel,Bars,[16.0],10.5,kg/piece,5.0,5.0,"[""RR16V""]",MaterialStatusEnum.Active
+16MM Round Rod,Bars,[16.0],10.5,kg/piece,5.0,5.0,"[""RR16""]",MaterialStatusEnum.Active
+20MM Round Rod,Bars,[20.0],15.0,kg/piece,5.0,5.0,"[""RR20""]",MaterialStatusEnum.Active
+20MM Round Rod Vizag Steel,Bars,[20.0],15.0,kg/piece,5.0,5.0,"[""RR20V""]",MaterialStatusEnum.Active
+25MM Round Rod,Bars,[25.0],23.0,kg/piece,5.0,5.0,"[""RR25R""]",MaterialStatusEnum.Active
+25MM Round Rod Vizag Steel,Bars,[25.0],23.0,kg/piece,5.0,5.0,"[""RR25V""]",MaterialStatusEnum.Active
+32MM Round Rod,Bars,[32.0],38.0,kg/piece,5.0,5.0,"[""RR32""]",MaterialStatusEnum.Active
+32MM Round Rod Vizag Steel,Bars,[32.0],38.0,kg/piece,5.0,5.0,"[""RR32V""]",MaterialStatusEnum.Active
+40MM Round Rod,Bars,[40.0],60.0,kg/piece,5.0,5.0,"[""RR40""]",MaterialStatusEnum.Active
+40MM Round Rod Vizag Steel,Bars,[40.0],60.0,kg/piece,5.0,5.0,"[""RR40V""]",MaterialStatusEnum.Active
+50MM Round Rod,Bars,[50.0],92.0,kg/piece,5.0,5.0,"[""RR50""]",MaterialStatusEnum.Active
+63MM Round Rod,Bars,[63.0],150.0,kg/piece,5.0,5.0,"[""RR63""]",MaterialStatusEnum.Active
+80MM Round Rod,Bars,[80.0],240.0,kg/piece,5.0,5.0,"[""RR80""]",MaterialStatusEnum.Active
+90MM Round Rod,Bars,[90.0],300.0,kg/piece,5.0,5.0,"[""RR90""]",MaterialStatusEnum.Active
+120MM Round Rod,Bars,[120.0],532.0,kg/piece,5.0,5.0,"[""RR120""]",MaterialStatusEnum.Active
+8mm Simhadri TMT,Bars,[8.0],4.74,kg/piece,5.0,5.0,"[""TMT8S""]",MaterialStatusEnum.Active
+10mm Simhadri TMT,Bars,[10.0],7.4,kg/piece,5.0,5.0,"[""TMT10S""]",MaterialStatusEnum.Active
+12mm Simhadri TMT,Bars,[12.0],10.7,kg/piece,5.0,5.0,"[""TMT12S""]",MaterialStatusEnum.Active
+16mm Simhadri TMT,Bars,[16.0],19.0,kg/piece,5.0,5.0,"[""TMT16S""]",MaterialStatusEnum.Active
+20mm Simhadri TMT,Bars,[20.0],30.0,kg/piece,5.0,5.0,"[""TMT20S""]",MaterialStatusEnum.Active
+25mm Simhadri TMT,Bars,[25.0],46.0,kg/piece,5.0,5.0,"[""TMT25S""]",MaterialStatusEnum.Active
+20mm SAIL TMT,Bars,[20.0],30.0,kg/piece,5.0,5.0,"[""TMT20SA""]",MaterialStatusEnum.Active
+25mm SAIL TMT,Bars,[25.0],46.0,kg/piece,5.0,5.0,"[""TMT25SA""]",MaterialStatusEnum.Active
+8MM VIZAG STEEL TMT / SAIL,Bars,[8.0],4.74,kg/piece,5.0,5.0,"[""TMT8V""]",MaterialStatusEnum.Active
+10MM VIZAG STEEL TMT / SAIL,Bars,[10.0],7.4,kg/piece,5.0,5.0,"[""TMT10VS""]",MaterialStatusEnum.Active
+12MM VIZAG STEEL TMT / SAIL,Bars,[12.0],10.7,kg/piece,5.0,5.0,"[""TMT12V""]",MaterialStatusEnum.Active
+16MM VIZAG STEEL TMT / SAIL,Bars,[16.0],19.0,kg/piece,5.0,5.0,"[""TMT16V""]",MaterialStatusEnum.Active
+20MM VIZAG STEEL TMT / SAIL,Bars,[20.0],30.0,kg/piece,5.0,5.0,"[""TMT20V""]",MaterialStatusEnum.Active
+25MM VIZAG STEEL TMT / SAIL,Bars,[25.0],46.0,kg/piece,5.0,5.0,"[""TMT25V""]",MaterialStatusEnum.Active
+Binding Wire,Bars,[],1.0,kg/piece,5.0,5.0,"[""BW""]",MaterialStatusEnum.Active
+6mm TMT Raipur,Bars,[6.0],2.7,kg/piece,5.0,5.0,"[""TMT6R""]",MaterialStatusEnum.Active
+7mm TMT Raipur,Bars,[7.0],3.6,kg/piece,5.0,5.0,"[""TMT7R""]",MaterialStatusEnum.Active
+MS FLAT 20*3,Flats,"[20.0, 3.0]",3.6,kg/piece,5.0,5.0,"[""F20*3""]",MaterialStatusEnum.Active
+MS FLAT 20*5,Flats,"[20.0, 5.0]",4.0,kg/piece,5.0,5.0,"[""F20*5""]",MaterialStatusEnum.Active
+MS FLAT 25*3,Flats,"[25.0, 3.0]",3.0,kg/piece,5.0,5.0,"[""F25*3""]",MaterialStatusEnum.Active
+MS FLAT 25*4,Flats,"[25.0, 4.0]",5.0,kg/piece,5.0,5.0,"[""F25*4""]",MaterialStatusEnum.Active
+MS FLAT 25*5,Flats,"[25.0, 5.0]",5.5,kg/piece,5.0,5.0,"[""F25*5""]",MaterialStatusEnum.Active
+MS FLAT 25*6,Flats,"[25.0, 6.0]",6.5,kg/piece,5.0,5.0,"[""F25*6""]",MaterialStatusEnum.Active
+MS FLAT 32*5,Flats,"[32.0, 5.0]",9.0,kg/piece,5.0,5.0,"[""F32*5""]",MaterialStatusEnum.Active
+MS FLAT 40*5,Flats,"[40.0, 5.0]",10.0,kg/piece,5.0,5.0,"[""F40*5""]",MaterialStatusEnum.Active
+MS FLAT 40*6,Flats,"[40.0, 6.0]",11.0,kg/piece,5.0,5.0,"[""F40*6""]",MaterialStatusEnum.Active
+MS FLAT 40*8,Flats,"[40.0, 8.0]",13.0,kg/piece,5.0,5.0,"[""F40*8""]",MaterialStatusEnum.Active
+MS FLAT 40*10,Flats,"[40.0, 10.0]",17.0,kg/piece,5.0,5.0,"[""F40*10""]",MaterialStatusEnum.Active
+MS FLAT 50*6,Flats,"[50.0, 6.0]",14.0,kg/piece,5.0,5.0,"[""F50*6""]",MaterialStatusEnum.Active
+MS FLAT 50*8,Flats,"[50.0, 8.0]",19.0,kg/piece,5.0,5.0,"[""F50*8""]",MaterialStatusEnum.Active
+MS FLAT 50*10,Flats,"[50.0, 10.0]",24.0,kg/piece,5.0,5.0,"[""F50*10""]",MaterialStatusEnum.Active
+MS FLAT 50*12,Flats,"[50.0, 12.0]",28.0,kg/piece,5.0,5.0,"[""F50*12""]",MaterialStatusEnum.Active
+MS FLAT 50*16,Flats,"[50.0, 16.0]",38.0,kg/piece,5.0,5.0,"[""F50*16""]",MaterialStatusEnum.Active
+MS FLAT 65*6,Flats,"[65.0, 6.0]",17.0,kg/piece,5.0,5.0,"[""F65*6""]",MaterialStatusEnum.Active
+MS FLAT 65*8,Flats,"[65.0, 8.0]",24.0,kg/piece,5.0,5.0,"[""F65*8""]",MaterialStatusEnum.Active
+MS FLAT 65*10,Flats,"[65.0, 10.0]",27.0,kg/piece,5.0,5.0,"[""F65*10""]",MaterialStatusEnum.Active
+MS FLAT 65*12,Flats,"[65.0, 12.0]",37.0,kg/piece,5.0,5.0,"[""F65*12""]",MaterialStatusEnum.Active
+MS FLAT 65*16,Flats,"[65.0, 16.0]",50.0,kg/piece,5.0,5.0,"[""F65*16""]",MaterialStatusEnum.Active
+MS FLAT 75*6,Flats,"[75.0, 6.0]",21.0,kg/piece,5.0,5.0,"[""F75*6""]",MaterialStatusEnum.Active
+MS FLAT 75*10,Flats,"[75.0, 10.0]",30.0,kg/piece,5.0,5.0,"[""F75*10""]",MaterialStatusEnum.Active
+MS FLAT 75*12,Flats,"[75.0, 12.0]",36.0,kg/piece,5.0,5.0,"[""F75*12""]",MaterialStatusEnum.Active
+MS FLAT 75*20,Flats,"[75.0, 20.0]",71.0,kg/piece,5.0,5.0,"[""F75*20""]",MaterialStatusEnum.Active
+MS FLAT 75*25,Flats,"[75.0, 25.0]",95.0,kg/piece,5.0,5.0,"[""F75*25""]",MaterialStatusEnum.Active
+MS FLAT 75*32,Flats,"[75.0, 32.0]",116.0,kg/piece,5.0,5.0,"[""F75*32""]",MaterialStatusEnum.Active
+MS FLAT 75*40,Flats,"[75.0, 40.0]",142.0,kg/piece,5.0,5.0,"[""F75*40""]",MaterialStatusEnum.Active
+MS FLAT 80*20,Flats,"[80.0, 20.0]",75.0,kg/piece,5.0,5.0,"[""F80*20""]",MaterialStatusEnum.Active
+MS FLAT 85*15,Flats,"[85.0, 15.0]",60.0,kg/piece,5.0,5.0,"[""F85*15""]",MaterialStatusEnum.Active
+MS FLAT 100*6,Flats,"[100.0, 6.0]",28.0,kg/piece,5.0,5.0,"[""F100*6""]",MaterialStatusEnum.Active
+MS FLAT 100*8,Flats,"[100.0, 8.0]",37.0,kg/piece,5.0,5.0,"[""F100*8""]",MaterialStatusEnum.Active
+MS FLAT 100*10,Flats,"[100.0, 10.0]",47.0,kg/piece,5.0,5.0,"[""F100*10""]",MaterialStatusEnum.Active
+MS FLAT 100*12,Flats,"[100.0, 12.0]",56.0,kg/piece,5.0,5.0,"[""F100*12""]",MaterialStatusEnum.Active
+MS FLAT 100*16,Flats,"[100.0, 16.0]",74.0,kg/piece,5.0,5.0,"[""F100*16""]",MaterialStatusEnum.Active
+MS FLAT 100*25,Flats,"[100.0, 25.0]",117.0,kg/piece,5.0,5.0,"[""F100*25""]",MaterialStatusEnum.Active
+MS FLAT 100*20,Flats,"[100.0, 20.0]",93.0,kg/piece,5.0,5.0,"[""F100*20""]",MaterialStatusEnum.Active
+MS FLAT 120*16,Flats,"[120.0, 16.0]",90.0,kg/piece,5.0,5.0,"[""F120*16""]",MaterialStatusEnum.Active
+MS FLAT 125*16,Flats,"[125.0, 16.0]",88.0,kg/piece,5.0,5.0,"[""F125*16""]",MaterialStatusEnum.Active
+MS FLAT 125*8,Flats,"[125.0, 8.0]",50.0,kg/piece,5.0,5.0,"[""F125*8""]",MaterialStatusEnum.Active
+MS FLAT 125*12,Flats,"[125.0, 12.0]",122.0,kg/piece,5.0,5.0,"[""F125*12""]",MaterialStatusEnum.Active
+MS FLAT 150*6,Flats,"[150.0, 6.0]",44.0,kg/piece,5.0,5.0,"[""F150*6""]",MaterialStatusEnum.Active
+MS FLAT 150*10,Flats,"[150.0, 10.0]",72.0,kg/piece,5.0,5.0,"[""F150*10""]",MaterialStatusEnum.Active
+MS FLAT 150*12,Flats,"[150.0, 12.0]",108.0,kg/piece,5.0,5.0,"[""F150*12""]",MaterialStatusEnum.Active
+MS ANGLE 25*3,Angles,"[25.0, 3.0]",6.5,kg/piece,5.0,5.0,"[""A25*3""]",MaterialStatusEnum.Active
+MS ANGLE 25*4,Angles,"[25.0, 4.0]",8.5,kg/piece,5.0,5.0,"[""A25*4""]",MaterialStatusEnum.Active
+MS ANGLE 25*5,Angles,"[25.0, 5.0]",8.5,kg/piece,5.0,5.0,"[""A25*5""]",MaterialStatusEnum.Active
+MS ANGLE 32*3,Angles,"[32.0, 3.0]",9.0,kg/piece,5.0,5.0,"[""A32*3""]",MaterialStatusEnum.Active
+MS ANGLE 32*4,Angles,"[32.0, 4.0]",11.0,kg/piece,5.0,5.0,"[""A32*4""]",MaterialStatusEnum.Active
+MS ANGLE 35*5,Angles,"[35.0, 5.0]",15.0,kg/piece,5.0,5.0,"[""A35*5""]",MaterialStatusEnum.Active
+MS ANGLE 40*5,Angles,"[40.0, 5.0]",17.0,kg/piece,5.0,5.0,"[""A40*5""]",MaterialStatusEnum.Active
+MS ANGLE 40*6,Angles,"[40.0, 6.0]",21.0,kg/piece,5.0,5.0,"[""A40*6""]",MaterialStatusEnum.Active
+MA ANGLE 40*6 22 feet,Angles,"[40.0, 6.0, 22.0]",24.0,kg/piece,5.0,5.0,"[""A40*6/22""]",MaterialStatusEnum.Active
+MS ANGLE 50*5,Angles,"[50.0, 5.0]",23.0,kg/piece,5.0,5.0,"[""A50*5""]",MaterialStatusEnum.Active
+MS ANGLE 50*5 Vizag Steel,Angles,"[50.0, 5.0]",23.0,kg/piece,5.0,5.0,"[""A50*5V""]",MaterialStatusEnum.Active
+MS ANGLE 50*6,Angles,"[50.0, 6.0]",27.0,kg/piece,5.0,5.0,"[""A50*6""]",MaterialStatusEnum.Active
+MS ANGLES 50*6 22 feet,Angles,"[50.0, 6.0, 22.0]",27.0,kg/piece,5.0,5.0,"[""A50*6/22""]",MaterialStatusEnum.Active
+MS ANGLE 50*6 Vizag Steel,Angles,"[50.0, 6.0]",27.0,kg/piece,5.0,5.0,"[""A50*6V""]",MaterialStatusEnum.Active
+MS ANGLE 50*6 SAIL,Angles,"[50.0, 6.0]",29.0,kg/piece,5.0,5.0,"[""A50*6SA""]",MaterialStatusEnum.Active
+MS ANGLE 65*6 Raipur,Angles,"[65.0, 6.0]",36.0,kg/piece,5.0,5.0,"[""A65*6""]",MaterialStatusEnum.Active
+MS ANGLE 75*6 Raipur,Angles,"[75.0, 6.0]",42.0,kg/piece,5.0,5.0,"[""A75*6""]",MaterialStatusEnum.Active
+MS ANGLE 65*6 SAIL,Angles,"[65.0, 6.0]",36.0,kg/piece,5.0,5.0,"[""A65*6SA""]",MaterialStatusEnum.Active
+MS ANGLE 65*6 Vizag Steel,Angles,"[65.0, 6.0]",36.0,kg/piece,5.0,5.0,"[""A65*6V""]",MaterialStatusEnum.Active
+MS ANGLE 65*8,Angles,"[65.0, 8.0]",47.0,kg/piece,5.0,5.0,"[""A65*8""]",MaterialStatusEnum.Active
+MS ANGLE 75*6 Vizag Steel,Angles,"[75.0, 6.0]",42.0,kg/piece,5.0,5.0,"[""A75*6V""]",MaterialStatusEnum.Active
+MS ANGLE 75*8,Angles,"[75.0, 8.0]",52.0,kg/piece,5.0,5.0,"[""A75*8""]",MaterialStatusEnum.Active
+MS ANGLE 75*8 Vizag Steel,Angles,"[75.0, 8.0]",54.0,kg/piece,5.0,5.0,"[""A75*8V""]",MaterialStatusEnum.Active
+MS ANGLE 75*10 Vizag Steel,Angles,"[75.0, 10.0]",66.0,kg/piece,5.0,5.0,"[""A75*10V""]",MaterialStatusEnum.Active
+MS ANGLE 90*6,Angles,"[90.0, 6.0]",50.0,kg/piece,5.0,5.0,"[""A90*6""]",MaterialStatusEnum.Active
+MS ANGLE 90*8,Angles,"[90.0, 8.0]",65.0,kg/piece,5.0,5.0,"[""A90*8""]",MaterialStatusEnum.Active
+MS ANGLE 100*8,Angles,"[100.0, 8.0]",73.0,kg/piece,5.0,5.0,"[""A100*8""]",MaterialStatusEnum.Active
+MS ANGLE 100*10,Angles,"[100.0, 10.0]",90.0,kg/piece,5.0,5.0,"[""A100*10""]",MaterialStatusEnum.Active
+MS ANGLE 75*6 Vizag Steel_12 Meters,Angles,"[75.0, 6.0, 12.0]",84.0,kg/piece,5.0,5.0,"[""A75*6V_12""]",MaterialStatusEnum.Active
+MS ANGLE 65*6 Vizag Steel_12 Meters,Angles,"[65.0, 6.0, 12.0]",72.0,kg/piece,5.0,5.0,"[""A65*6V_12""]",MaterialStatusEnum.Active
+MS ANGLE 50*6 Vizag Steel_12 Meters,Angles,"[50.0, 6.0, 12.0]",54.0,kg/piece,5.0,5.0,"[""A50*6V_12""]",MaterialStatusEnum.Active
+70*35 Channel Raipur Super Light,Channels,"[70.0, 35.0]",21.0,kg/piece,5.0,5.0,"[""C70RSL""]",MaterialStatusEnum.Active
+75*40 Channel Raipur Light,Channels,"[75.0, 40.0]",30.0,kg/piece,5.0,5.0,"[""C75RL""]",MaterialStatusEnum.Active
+75*40 Channel Raipur,Channels,"[75.0, 40.0]",36.0,kg/piece,5.0,5.0,"[""C75R""]",MaterialStatusEnum.Active
+75*40 Channel Raipur Heavy,Channels,"[75.0, 40.0]",42.0,kg/piece,5.0,5.0,"[""C75RH""]",MaterialStatusEnum.Active
+100*50 Channel Raipur,Channels,"[100.0, 50.0]",58.0,kg/piece,5.0,5.0,"[""C100R""]",MaterialStatusEnum.Active
+125*65 Channel Raipur,Channels,"[125.0, 65.0]",82.0,kg/piece,5.0,5.0,"[""C125R""]",MaterialStatusEnum.Active
+150*75 Channel Raipur,Channels,"[150.0, 75.0]",100.0,kg/piece,5.0,5.0,"[""C150R""]",MaterialStatusEnum.Active
+200 Channel Raipur,Channels,[200.0],135.0,kg/piece,5.0,5.0,"[""C200R""]",MaterialStatusEnum.Active
+250 Channel Raipur,Channels,[250.0],180.0,kg/piece,5.0,5.0,"[""C250R""]",MaterialStatusEnum.Active
+75*40 Channel Vizag Steel,Channels,"[75.0, 40.0]",44.0,kg/piece,5.0,5.0,"[""C75V""]",MaterialStatusEnum.Active
+100*50 Channel Vizag Steel,Channels,"[100.0, 50.0]",58.0,kg/piece,5.0,5.0,"[""C100V""]",MaterialStatusEnum.Active
+125*65 Channel Vizag Steel,Channels,"[125.0, 65.0]",80.0,kg/piece,5.0,5.0,"[""C125V""]",MaterialStatusEnum.Active
+150*75 Channel Vizag Steel,Channels,"[150.0, 75.0]",100.0,kg/piece,5.0,5.0,"[""C150V""]",MaterialStatusEnum.Active
+75*40 Channel SAIL_11.5-12 Meters,Channels,"[75.0, 40.0, 11.5, 12.0]",88.0,kg/piece,5.0,5.0,"[""C75S_12""]",MaterialStatusEnum.Active
+75*40 Channel Vizag Steel_12 Meters,Channels,"[75.0, 40.0, 12.0]",88.0,kg/piece,5.0,5.0,"[""C75V_12""]",MaterialStatusEnum.Active
+100*50 Channel Vizag Steel_12 Meters,Channels,"[100.0, 50.0, 12.0]",116.0,kg/piece,5.0,5.0,"[""C100V_12""]",MaterialStatusEnum.Active
+125*65 Channel Vizag Steel_12 Meters,Channels,"[125.0, 65.0, 12.0]",160.0,kg/piece,5.0,5.0,"[""C125V_12""]",MaterialStatusEnum.Active
+125*65 Channel Jindal_12 Meters,Channels,"[125.0, 65.0, 12.0]",160.0,kg/piece,5.0,5.0,"[""C125J_12""]",MaterialStatusEnum.Active
+150*75 Channel Vizag Steel_12 Meters,Channels,"[150.0, 75.0, 12.0]",200.0,kg/piece,5.0,5.0,"[""C150V_12""]",MaterialStatusEnum.Active
+150*75 Channel Jindal_12 Meters,Channels,"[150.0, 75.0, 12.0]",200.0,kg/piece,5.0,5.0,"[""C150J_12""]",MaterialStatusEnum.Active
+200*75 Channel JISPL_12 Meters,Channels,"[200.0, 75.0, 12.0]",270.0,kg/piece,5.0,5.0,"[""C200J_12""]",MaterialStatusEnum.Active
+200*75 Channel SAIL_12 Meters,Channels,"[200.0, 75.0, 12.0]",270.0,kg/piece,5.0,5.0,"[""C200S_12""]",MaterialStatusEnum.Active
+100*50 Channel SAIL,Channels,"[100.0, 50.0]",52.0,kg/piece,5.0,5.0,"[""C100SA""]",MaterialStatusEnum.Active
+150*75 Channel SAIL,Channels,"[150.0, 75.0]",100.0,kg/piece,5.0,5.0,"[""C150SA""]",MaterialStatusEnum.Active
+200 Channel Vizag Steel,Channels,[200.0],132.0,kg/piece,5.0,5.0,"[""C200V""]",MaterialStatusEnum.Active
+250 Channel Vizag Steel,Channels,[250.0],180.0,kg/piece,5.0,5.0,"[""C250V""]",MaterialStatusEnum.Active
+250*75 Channel SAIL,Channels,"[250.0, 75.0]",180.0,kg/piece,5.0,5.0,"[""C250SA""]",MaterialStatusEnum.Active
+400*100 Channel SAIL,Channels,"[400.0, 100.0]",300.0,kg/piece,5.0,5.0,"[""C400SA""]",MaterialStatusEnum.Active
+100*50 Beam,Beams,"[100.0, 50.0]",50.0,kg/piece,5.0,5.0,"[""B100""]",MaterialStatusEnum.Active
+125*65 Beam,Beams,"[125.0, 65.0]",85.0,kg/piece,5.0,5.0,"[""B125""]",MaterialStatusEnum.Active
+150*75 Beam,Beams,"[150.0, 75.0]",95.0,kg/piece,5.0,5.0,"[""B150""]",MaterialStatusEnum.Active
+200*100 Beam JISPL 6 Meters,Beams,"[200.0, 100.0, 6.0]",160.0,kg/piece,5.0,5.0,"[""B200J""]",MaterialStatusEnum.Active
+200*100 Beam,Beams,"[200.0, 100.0]",150.0,kg/piece,5.0,5.0,"[""B200""]",MaterialStatusEnum.Active
+200*100 Beam SAIL 12 Meters,Beams,"[200.0, 100.0, 12.0]",300.0,kg/piece,5.0,5.0,"[""B200SA_12""]",MaterialStatusEnum.Active
+200*100 Beam JISPL 12 Meters,Beams,"[200.0, 100.0, 12.0]",300.0,kg/piece,5.0,5.0,"[""B200J_12""]",MaterialStatusEnum.Active
+150*75 Beam SAIL,Beams,"[150.0, 75.0]",100.0,kg/piece,5.0,5.0,"[""B150SA""]",MaterialStatusEnum.Active
+150*75 Beam SAIL 12M,Beams,"[150.0, 75.0, 12.0]",200.0,kg/piece,5.0,5.0,"[""B150SA_12""]",MaterialStatusEnum.Active
+150*75 Beam JISPL 12M,Beams,"[150.0, 75.0, 12.0]",200.0,kg/piece,5.0,5.0,"[""B150J_12""]",MaterialStatusEnum.Active
+200*100 Beam SAIL,Beams,"[200.0, 100.0]",155.0,kg/piece,5.0,5.0,"[""B200SA""]",MaterialStatusEnum.Active
+250*125 Beam SAIL,Beams,"[250.0, 125.0]",228.0,kg/piece,5.0,5.0,"[""B250SA""]",MaterialStatusEnum.Active
+250*125 Beam JISPL,Beams,"[250.0, 125.0]",228.0,kg/piece,5.0,5.0,"[""B250J""]",MaterialStatusEnum.Active
+250*125 Beam,Beams,"[250.0, 125.0]",228.0,kg/piece,5.0,5.0,"[""B250""]",MaterialStatusEnum.Active
+300*140 Beam,Beams,"[300.0, 140.0]",285.0,kg/piece,5.0,5.0,"[""B300""]",MaterialStatusEnum.Active
+300*140 Beam JISPL 11.5m,Beams,"[300.0, 140.0, 11.5]",550.0,kg/piece,5.0,5.0,"[""B300_J11""]",MaterialStatusEnum.Active
+300*140 Beam SAIL 12M,Beams,"[300.0, 140.0, 12.0]",580.0,kg/piece,5.0,5.0,"[""B300SA_12""]",MaterialStatusEnum.Active
+300*140 Beam SAIL,Beams,"[300.0, 140.0]",285.0,kg/piece,5.0,5.0,"[""B300SA""]",MaterialStatusEnum.Active
+350*150 Beam,Beams,"[350.0, 150.0]",315.0,kg/piece,5.0,5.0,"[""B350""]",MaterialStatusEnum.Active
+350*150 Beam SAIL 12M,Beams,"[350.0, 150.0, 12.0]",630.0,kg/piece,5.0,5.0,"[""B350SA_12""]",MaterialStatusEnum.Active
+300*150 Beam SAIL 12 Meters,Beams,"[300.0, 150.0, 12.0]",520.0,kg/piece,5.0,5.0,"[""B300SA_12""]",MaterialStatusEnum.Active
+450 Beam,Beams,[450.0],438.0,kg/piece,5.0,5.0,"[""B450""]",MaterialStatusEnum.Active
+400 Beam,Beams,[400.0],378.0,kg/piece,5.0,5.0,"[""B400""]",MaterialStatusEnum.Active
+NPB 400*180_6 Meters JISPL,Beams,"[400.0, 180.0, 6.0]",405.0,kg/piece,5.0,5.0,"[""B400*180J""]",MaterialStatusEnum.Active
+NPB 450*190_12 Meters SAIL,Beams,"[450.0, 190.0, 12.0]",940.0,kg/piece,5.0,5.0,"[""B450*190SA""]",MaterialStatusEnum.Active
+NPB 610*220_12 Meters SAIL,Beams,"[610.0, 220.0, 12.0]",1500.0,kg/piece,5.0,5.0,"[""B610*220SA""]",MaterialStatusEnum.Active
+500*200 Beam SAIL,Beams,"[500.0, 200.0]",550.0,kg/piece,5.0,5.0,"[""B500""]",MaterialStatusEnum.Active
+1.6mm HR sheet,Plates,[1.6],40.0,kg/piece,5.0,5.0,"[""HR1.6""]",MaterialStatusEnum.Active
+2.0mm HR sheet,Plates,[2.0],50.0,kg/piece,5.0,5.0,"[""HR2""]",MaterialStatusEnum.Active
+2.5mm HR sheet,Plates,[2.5],62.0,kg/piece,5.0,5.0,"[""HR2.5""]",MaterialStatusEnum.Active
+2.3mm HR sheet,Plates,[2.3],55.0,kg/piece,5.0,5.0,"[""HR2.3""]",MaterialStatusEnum.Active
+2.9mm HR sheet,Plates,[2.9],69.0,kg/piece,5.0,5.0,"[""HR2.9""]",MaterialStatusEnum.Active
+3.0mm HR sheet,Plates,[3.0],74.0,kg/piece,5.0,5.0,"[""HR3""]",MaterialStatusEnum.Active
+3.15mm HR sheet,Plates,[3.15],78.0,kg/piece,5.0,5.0,"[""HR3.15""]",MaterialStatusEnum.Active
+4.0mm HR Sheet,Plates,[4.0],100.0,kg/piece,5.0,5.0,"[""HR4""]",MaterialStatusEnum.Active
+4.0mm HR Sheet 5*8,Plates,"[4.0, 5.0, 8.0]",120.0,kg/piece,5.0,5.0,"[""HR4*5*8""]",MaterialStatusEnum.Active
+3.0mm HR sheet 5*8,Plates,"[3.0, 5.0, 8.0]",90.0,kg/piece,5.0,5.0,"[""HR3*5*8""]",MaterialStatusEnum.Active
+2.5mm HR sheet 5*8,Plates,"[2.5, 5.0, 8.0]",75.0,kg/piece,5.0,5.0,"[""HR2.5*5*8""]",MaterialStatusEnum.Active
+3.0mm GP Sheet,Plates,[3.0],70.0,kg/piece,5.0,5.0,"[""GP10G""]",MaterialStatusEnum.Active
+2.5mm GP Sheet,Plates,[2.5],59.0,kg/piece,5.0,5.0,"[""GP12G""]",MaterialStatusEnum.Active
+2.0mm GP Sheet,Plates,[2.0],49.0,kg/piece,5.0,5.0,"[""GP14G""]",MaterialStatusEnum.Active
+1.5mm GP Sheet,Plates,[1.5],34.0,kg/piece,5.0,5.0,"[""GP16G""]",MaterialStatusEnum.Active
+1.5mm GP Sheet 3*8ft,Plates,"[1.5, 3.0, 8.0]",26.5,kg/piece,5.0,5.0,"[""GP16G 3*8""]",MaterialStatusEnum.Active
+1.15mm GP Sheet,Plates,[1.15],26.0,kg/piece,5.0,5.0,"[""GP18G""]",MaterialStatusEnum.Active
+1.15mm GP Sheet 3*8ft,Plates,"[1.15, 3.0, 8.0]",21.0,kg/piece,5.0,5.0,"[""GP18G 3*8""]",MaterialStatusEnum.Active
+0.9mm GP Sheet,Plates,[0.9],20.4,kg/piece,5.0,5.0,"[""GP20G""]",MaterialStatusEnum.Active
+0.8mm GP Sheet,Plates,[0.8],18.0,kg/piece,5.0,5.0,"[""GP22G""]",MaterialStatusEnum.Active
+0.6mm GP Sheet,Plates,[0.6],13.6,kg/piece,5.0,5.0,"[""GP24G""]",MaterialStatusEnum.Active
+1.25mm 3*8 GP Sheet,Plates,"[1.25, 3.0, 8.0]",27.0,kg/piece,5.0,5.0,"[""GP1.25""]",MaterialStatusEnum.Active
+1.2 MM CR SHEET,Plates,[1.2],26.0,kg/piece,5.0,5.0,"[""CR1.2""]",MaterialStatusEnum.Active
+1.15MM CR SHET,Plates,[1.15],30.0,kg/piece,5.0,5.0,"[""CR1.15""]",MaterialStatusEnum.Active
+Base plate 200*200*6,Plates,"[200.0, 200.0, 6.0]",2.0,kg/piece,5.0,5.0,"[""B200*200*6""]",MaterialStatusEnum.Active
+"4.0mm Bottom Sheet(6*10""2)",Plates,"[4.0, 6.0, 10.0, 2.0]",190.0,kg/piece,5.0,5.0,"[""BS4""]",MaterialStatusEnum.Active
+"4.5mm Bottom Sheet(6*10""2)",Plates,"[4.5, 6.0, 10.0, 2.0]",210.0,kg/piece,5.0,5.0,"[""BS4.5""]",MaterialStatusEnum.Active
+"4.6mm Bottom Sheet(6*10""2)",Plates,"[4.6, 6.0, 10.0, 2.0]",215.0,kg/piece,5.0,5.0,"[""BS4.6""]",MaterialStatusEnum.Active
+"4.8mm Bottom Sheet(6*10""2)",Plates,"[4.8, 6.0, 10.0, 2.0]",228.0,kg/piece,5.0,5.0,"[""BS4.8""]",MaterialStatusEnum.Active
+"5.0mm Bottom Sheet(6*10""2)",Plates,"[5.0, 6.0, 10.0, 2.0]",237.0,kg/piece,5.0,5.0,"[""BS5""]",MaterialStatusEnum.Active
+6.0mm Bottom sheet(6*10''2),Plates,"[6.0, 6.0, 10.0, 2.0]",280.0,kg/piece,5.0,5.0,"[""BS6""]",MaterialStatusEnum.Active
+MS Chequered Plate 3*1.25*10ft,Plates,"[3.0, 1.25, 10.0]",100.0,kg/piece,5.0,5.0,"[""MSC3_10ft""]",MaterialStatusEnum.Active
+MS Chequered Plate 3mm,Plates,[3.0],200.0,kg/piece,5.0,5.0,"[""MSC3""]",MaterialStatusEnum.Active
+MS Chequered Plate 4mm,Plates,[4.0],270.0,kg/piece,5.0,5.0,"[""MSC4""]",MaterialStatusEnum.Active
+MS Chequered Plate 5mm,Plates,[5.0],330.0,kg/piece,5.0,5.0,"[""MSC5""]",MaterialStatusEnum.Active
+MS Chequered Plate 6mm*1.25*6.3,Plates,"[6.0, 1.25, 6.3]",395.0,kg/piece,5.0,5.0,"[""MSC6""]",MaterialStatusEnum.Active
+MS Chequered Plate 6mm*1.25*10ft,Plates,"[6.0, 1.25, 10.0]",198.0,kg/piece,5.0,5.0,"[""MSC6_10ft""]",MaterialStatusEnum.Active
+MS Chequered Plate 8mm,Plates,[8.0],520.0,kg/piece,5.0,5.0,"[""MSC8""]",MaterialStatusEnum.Active
+MS Chequered Plate 10mm,Plates,[10.0],650.0,kg/piece,5.0,5.0,"[""MSC10""]",MaterialStatusEnum.Active
+MS PLATE 3*1.5*6.3,Plates,"[3.0, 1.5, 6.3]",227.0,kg/piece,5.0,5.0,"[""MS3*1.5*6.3""]",MaterialStatusEnum.Active
+MS PLATE 3*1.25*3.3,Plates,"[3.0, 1.25, 3.3]",101.0,kg/piece,5.0,5.0,"[""MS3*1.25""]",MaterialStatusEnum.Active
+MS PLATE 4*1.25*6.3,Plates,"[4.0, 1.25, 6.3]",252.0,kg/piece,5.0,5.0,"[""MS4*1.25""]",MaterialStatusEnum.Active
+MS PLATE 4*1.5*6.3,Plates,"[4.0, 1.5, 6.3]",305.0,kg/piece,5.0,5.0,"[""MS4*1.5""]",MaterialStatusEnum.Active
+MS PLATE 5*1.25*6.3,Plates,"[5.0, 1.25, 6.3]",315.0,kg/piece,5.0,5.0,"[""MS5*1.25""]",MaterialStatusEnum.Active
+MS PLATE 5*1.5*6.3,Plates,"[5.0, 1.5, 6.3]",380.0,kg/piece,5.0,5.0,"[""MS5*1.5""]",MaterialStatusEnum.Active
+MS PLATE 5*1.5*1.42,Plates,"[5.0, 1.5, 1.42]",85.0,kg/piece,5.0,5.0,"[""MS5*1.5*1.42""]",MaterialStatusEnum.Active
+MS PLATE 5*1.5*3,Plates,"[5.0, 1.5, 3.0]",190.0,kg/piece,5.0,5.0,"[""MS5*1.5*3""]",MaterialStatusEnum.Active
+MS PLATE 6*1.25*6.3,Plates,"[6.0, 1.25, 6.3]",380.0,kg/piece,5.0,5.0,"[""MS6*1.25""]",MaterialStatusEnum.Active
+MS PLATE 6*1.25*1.5,Plates,"[6.0, 1.25, 1.5]",90.0,kg/piece,5.0,5.0,"[""MS6*1.25*1.5""]",MaterialStatusEnum.Active
+MS PLATE 6*1.5*6.3,Plates,"[6.0, 1.5, 6.3]",455.0,kg/piece,5.0,5.0,"[""MS6*1.5""]",MaterialStatusEnum.Active
+MS PLATE 6*1.8*6.3,Plates,"[6.0, 1.8, 6.3]",550.0,kg/piece,5.0,5.0,"[""MS6*1.8*6.3""]",MaterialStatusEnum.Active
+MS PLATE 6*1.5*3,Plates,"[6.0, 1.5, 3.0]",220.0,kg/piece,5.0,5.0,"[""MS6*1.5*3""]",MaterialStatusEnum.Active
+MS PLATE 6*1.25*3,Plates,"[6.0, 1.25, 3.0]",180.0,kg/piece,5.0,5.0,"[""MS6*1.25*3""]",MaterialStatusEnum.Active
+MS PLATE 6*1.25*2.5,Plates,"[6.0, 1.25, 2.5]",150.0,kg/piece,5.0,5.0,"[""MS6*1.25*2.5""]",MaterialStatusEnum.Active
+MS PLATE 6*1.25*4.27,Plates,"[6.0, 1.25, 4.27]",256.2,kg/piece,5.0,5.0,"[""MS6*1.25*4.27""]",MaterialStatusEnum.Active
+MS PLATE 8*1.25*0.6,Plates,"[8.0, 1.25, 0.6]",50.0,kg/piece,5.0,5.0,"[""MS8*1.25*0.6""]",MaterialStatusEnum.Active
+MS PLATE 8*1.25*6.3,Plates,"[8.0, 1.25, 6.3]",505.0,kg/piece,5.0,5.0,"[""MS8*1.25""]",MaterialStatusEnum.Active
+MS PLATE 8*1.5*6.3,Plates,"[8.0, 1.5, 6.3]",608.0,kg/piece,5.0,5.0,"[""MS8*1.5""]",MaterialStatusEnum.Active
+MS PLATE 8*1.25*2.5,Plates,"[8.0, 1.25, 2.5]",200.0,kg/piece,5.0,5.0,"[""MS8*1.25*2.5""]",MaterialStatusEnum.Active
+MS PLATE 8*1.25*3.15,Plates,"[8.0, 1.25, 3.15]",255.0,kg/piece,5.0,5.0,"[""MS8*1.25*3.15""]",MaterialStatusEnum.Active
+MS PLATE 8*1.25*4.9,Plates,"[8.0, 1.25, 4.9]",392.0,kg/piece,5.0,5.0,"[""MS8*1.25*4.9""]",MaterialStatusEnum.Active
+MS PLATE 10*1.25*6.3,Plates,"[10.0, 1.25, 6.3]",630.0,kg/piece,5.0,5.0,"[""MS10*1.25""]",MaterialStatusEnum.Active
+MS PLATE 10*1.25*3,Plates,"[10.0, 1.25, 3.0]",300.0,kg/piece,5.0,5.0,"[""MS10*1.25*3""]",MaterialStatusEnum.Active
+MS PLATE 10*1.25*1,Plates,"[10.0, 1.25, 1.0]",100.0,kg/piece,5.0,5.0,"[""MS10*1.25*1""]",MaterialStatusEnum.Active
+MS PLATE 10*1.5*6.3,Plates,"[10.0, 1.5, 6.3]",756.0,kg/piece,5.0,5.0,"[""MS10*1.5""]",MaterialStatusEnum.Active
+MS PLATE 10*1.5*1.25,Plates,"[10.0, 1.5, 1.25]",150.0,kg/piece,5.0,5.0,"[""MS10*1.5*1.25""]",MaterialStatusEnum.Active
+MS PLATE 10*1.5*1.5,Plates,"[10.0, 1.5, 1.5]",180.0,kg/piece,5.0,5.0,"[""MS10*1.5*1.5""]",MaterialStatusEnum.Active
+MS PLATE 12*2.5*6,Plates,"[12.0, 2.5, 6.0]",1440.0,kg/piece,5.0,5.0,"[""MS12*2.5""]",MaterialStatusEnum.Active
+MS PLATE 12*1.5*6.3,Plates,"[12.0, 1.5, 6.3]",908.0,kg/piece,5.0,5.0,"[""MS12*1.5""]",MaterialStatusEnum.Active
+MS PLATE 12*1.5*3,Plates,"[12.0, 1.5, 3.0]",432.0,kg/piece,5.0,5.0,"[""MS12*1.5*3""]",MaterialStatusEnum.Active
+MS PLATE 12*1.25*6,Plates,"[12.0, 1.25, 6.0]",756.0,kg/piece,5.0,5.0,"[""MS12*1.25""]",MaterialStatusEnum.Active
+MS PLATE 12*1.25*1.6,Plates,"[12.0, 1.25, 1.6]",200.0,kg/piece,5.0,5.0,"[""MS12*1.25*1.6""]",MaterialStatusEnum.Active
+MS PLATE 12*1.25*1,Plates,"[12.0, 1.25, 1.0]",120.0,kg/piece,5.0,5.0,"[""MS12*1.25*1""]",MaterialStatusEnum.Active
+MS PLATE 12*1.25*2,Plates,"[12.0, 1.25, 2.0]",240.0,kg/piece,5.0,5.0,"[""MS12*1.25*2""]",MaterialStatusEnum.Active
+MS PLATE 12*1.25*3.3,Plates,"[12.0, 1.25, 3.3]",400.0,kg/piece,5.0,5.0,"[""MS12*1.25*3.3""]",MaterialStatusEnum.Active
+MS PLATE 12*1.25*4.42,Plates,"[12.0, 1.25, 4.42]",532.0,kg/piece,5.0,5.0,"[""MS12*1.25*4.42""]",MaterialStatusEnum.Active
+MS PLATE 16*1.25*2,Plates,"[16.0, 1.25, 2.0]",320.0,kg/piece,5.0,5.0,"[""MS16*1.25*2""]",MaterialStatusEnum.Active
+MS PLATE 16*1.25*2.5,Plates,"[16.0, 1.25, 2.5]",400.0,kg/piece,5.0,5.0,"[""MS16*1.25*2.5""]",MaterialStatusEnum.Active
+MS PLATE 16*1.25*6.3,Plates,"[16.0, 1.25, 6.3]",1008.0,kg/piece,5.0,5.0,"[""MS16*1.25*6.3""]",MaterialStatusEnum.Active
+MS PLATE 16*1.5*2,Plates,"[16.0, 1.5, 2.0]",385.0,kg/piece,5.0,5.0,"[""MS16*1.5*2""]",MaterialStatusEnum.Active
+MS PLATE 16*1.5*6.3,Plates,"[16.0, 1.5, 6.3]",1210.0,kg/piece,5.0,5.0,"[""MS16*1.5""]",MaterialStatusEnum.Active
+MS PLATE 16*1.5*3,Plates,"[16.0, 1.5, 3.0]",580.0,kg/piece,5.0,5.0,"[""MS16*1.5*3""]",MaterialStatusEnum.Active
+MS PLATE 16*1.5*4,Plates,"[16.0, 1.5, 4.0]",770.0,kg/piece,5.0,5.0,"[""MS16*1.5*4""]",MaterialStatusEnum.Active
+MS PLATE 16*2.5*6,Plates,"[16.0, 2.5, 6.0]",1920.0,kg/piece,5.0,5.0,"[""MS16*2.5""]",MaterialStatusEnum.Active
+MS PLATE 20*1.25*2.5,Plates,"[20.0, 1.25, 2.5]",500.0,kg/piece,5.0,5.0,"[""MS20*1.25*2.5""]",MaterialStatusEnum.Active
+MS PLATE 20*1.25*2.1,Plates,"[20.0, 1.25, 2.1]",430.0,kg/piece,5.0,5.0,"[""MS20*1.25*2.1""]",MaterialStatusEnum.Active
+MS PLATE 20*1.5*6.3,Plates,"[20.0, 1.5, 6.3]",1512.0,kg/piece,5.0,5.0,"[""MS20*1.5""]",MaterialStatusEnum.Active
+MS PLATE 20*2.5*6,Plates,"[20.0, 2.5, 6.0]",2400.0,kg/piece,5.0,5.0,"[""MS20*2.5""]",MaterialStatusEnum.Active
+MS PLATE 20*1.5*1.5,Plates,"[20.0, 1.5, 1.5]",360.0,kg/piece,5.0,5.0,"[""MS20*1.5*1.5""]",MaterialStatusEnum.Active
+MS PLATE 20*1.5*1,Plates,"[20.0, 1.5, 1.0]",240.0,kg/piece,5.0,5.0,"[""MS20*1.5*1""]",MaterialStatusEnum.Active
+MS PLATE 20*1.5*2.42,Plates,"[20.0, 1.5, 2.42]",582.0,kg/piece,5.0,5.0,"[""MS20*1.5*2.42""]",MaterialStatusEnum.Active
+MS PLATE 20*1.5*3.5,Plates,"[20.0, 1.5, 3.5]",840.0,kg/piece,5.0,5.0,"[""MS20*1.5*3.5""]",MaterialStatusEnum.Active
+MS PLATE 25*2.5*6,Plates,"[25.0, 2.5, 6.0]",3000.0,kg/piece,5.0,5.0,"[""MS25*2.5""]",MaterialStatusEnum.Active
+MS PLATE 25*1.25*6,Plates,"[25.0, 1.25, 6.0]",1500.0,kg/piece,5.0,5.0,"[""MS25*1.25""]",MaterialStatusEnum.Active
+MS PLATE 25*1.5*6.3,Plates,"[25.0, 1.5, 6.3]",1890.0,kg/piece,5.0,5.0,"[""MS25*1.5""]",MaterialStatusEnum.Active
+MS PLATE 32*1.5*6.3,Plates,"[32.0, 1.5, 6.3]",2420.0,kg/piece,5.0,5.0,"[""MS32*1.5""]",MaterialStatusEnum.Active
+MS PLATE 32*2.5*6,Plates,"[32.0, 2.5, 6.0]",3840.0,kg/piece,5.0,5.0,"[""MS32*2.5""]",MaterialStatusEnum.Active
+MS PLATE 40*2.5*6,Plates,"[40.0, 2.5, 6.0]",4800.0,kg/piece,5.0,5.0,"[""MS40*2.5""]",MaterialStatusEnum.Active
+MS PLATE 40*1.5*1,Plates,"[40.0, 1.5, 1.0]",480.0,kg/piece,5.0,5.0,"[""MS40*1.5*1""]",MaterialStatusEnum.Active
+MS PLATE 32*1.5*0.9,Plates,"[32.0, 1.5, 0.9]",346.0,kg/piece,5.0,5.0,"[""MS32*1.5*0.9""]",MaterialStatusEnum.Active
+MS PLATE 20*1.25*1,Plates,"[20.0, 1.25, 1.0]",200.0,kg/piece,5.0,5.0,"[""MS20*1.25*1""]",MaterialStatusEnum.Active
+JINDAL INDIA BRICK RED 0.5*7.65*1.1,Plates,"[0.5, 7.65, 1.1]",32.13,kg/piece,5.0,5.0,"[""RS_0.5_JBR_7.65*1.1""]",MaterialStatusEnum.Active
+JINDAL INDIA BRICK RED 0.5*6.2*1.1,Plates,"[0.5, 6.2, 1.1]",26.04,kg/piece,5.0,5.0,"[""RS_0.5_JBR_6.2*1.1""]",MaterialStatusEnum.Active
+GP SQUARE PIPE 15*15*1.6,Pipes,"[15.0, 15.0, 1.6]",3.75,kg/piece,5.0,5.0,"[""GPP15*15*1.6""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 20*20*1.2(RAIPUR),Pipes,"[20.0, 20.0, 1.2]",4.0,kg/piece,5.0,5.0,"[""MSP20*20*1.2R""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 20*20*1.6(RAIPUR),Pipes,"[20.0, 20.0, 1.6]",5.5,kg/piece,5.0,5.0,"[""MSP20*20*1.6R""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 20*20*1.6(COIL),Pipes,"[20.0, 20.0, 1.6]",5.5,kg/piece,5.0,5.0,"[""MSP20*20*1.6C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 25*25*1.2(RAIPUR),Pipes,"[25.0, 25.0, 1.2]",5.5,kg/piece,5.0,5.0,"[""MSP25*25*1.2R""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 25*25*1.6(RAIPUR),Pipes,"[25.0, 25.0, 1.6]",7.0,kg/piece,5.0,5.0,"[""MSP25*25*1.6R""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 25*25*1.6(COIL),Pipes,"[25.0, 25.0, 1.6]",7.0,kg/piece,5.0,5.0,"[""MSP25*25*1.6C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 25*25*2(RAIPUR),Pipes,"[25.0, 25.0, 2.0]",9.0,kg/piece,5.0,5.0,"[""MSP25*25*2R""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 25*25*2(COIL),Pipes,"[25.0, 25.0, 2.0]",9.0,kg/piece,5.0,5.0,"[""MSP25*25*2C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 25*25*2.5(RAIPUR),Pipes,"[25.0, 25.0, 2.5]",11.0,kg/piece,5.0,5.0,"[""MSP25*25*2.5C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 30*30*1.6(RAIPUR),Pipes,"[30.0, 30.0, 1.6]",8.6,kg/piece,5.0,5.0,"[""MSP30*30*1.6R""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 40*40*1.6(RAIPUR),Pipes,"[40.0, 40.0, 1.6]",11.0,kg/piece,5.0,5.0,"[""MSP40*40*1.6R""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 40*40*1.6(COIL),Pipes,"[40.0, 40.0, 1.6]",11.0,kg/piece,5.0,5.0,"[""MSP40*40*1.6C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 40*40*2(RAIPUR),Pipes,"[40.0, 40.0, 2.0]",14.0,kg/piece,5.0,5.0,"[""MSP40*40*2R""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 40*40*2(COIL),Pipes,"[40.0, 40.0, 2.0]",14.0,kg/piece,5.0,5.0,"[""MSP40*40*2C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 40*40*2.5(RAIPUR),Pipes,"[40.0, 40.0, 2.5]",17.0,kg/piece,5.0,5.0,"[""MSP40*40*2.5R""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 40*40*2.5(COIL),Pipes,"[40.0, 40.0, 2.5]",17.0,kg/piece,5.0,5.0,"[""MSP40*40*2.5C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 40*40*3(COIL),Pipes,"[40.0, 40.0, 3.0]",21.0,kg/piece,5.0,5.0,"[""MSP40*40*3C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 40*40*4(COIL),Pipes,"[40.0, 40.0, 4.0]",30.0,kg/piece,5.0,5.0,"[""MSP40*40*4C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 50*50*1.6(RAIPUR),Pipes,"[50.0, 50.0, 1.6]",13.0,kg/piece,5.0,5.0,"[""MSP50*50*1.6R""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 50*50*1.6(COIL),Pipes,"[50.0, 50.0, 1.6]",13.0,kg/piece,5.0,5.0,"[""MSP50*50*1.6C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 50*50*2(RAIPUR),Pipes,"[50.0, 50.0, 2.0]",18.0,kg/piece,5.0,5.0,"[""MSP50*50*2R""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 50*50*2(COIL),Pipes,"[50.0, 50.0, 2.0]",18.0,kg/piece,5.0,5.0,"[""MSP50*50*2C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 50*50*2.5(COIL),Pipes,"[50.0, 50.0, 2.5]",22.0,kg/piece,5.0,5.0,"[""MSP50*50*2.5C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 50*50*3.2(COIL),Pipes,"[50.0, 50.0, 3.2]",28.0,kg/piece,5.0,5.0,"[""MSP50*50*3.2C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 50*50*3.6(COIL),Pipes,"[50.0, 50.0, 3.6]",34.0,kg/piece,5.0,5.0,"[""MSP50*50*3.6C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 60*60*2(RAIPUR),Pipes,"[60.0, 60.0, 2.0]",22.0,kg/piece,5.0,5.0,"[""MSP60*60*2R""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 60*60*2.5(COIL),Pipes,"[60.0, 60.0, 2.5]",27.0,kg/piece,5.0,5.0,"[""MSP60*60*2.5C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 60*60*3.2(COIL),Pipes,"[60.0, 60.0, 3.2]",34.0,kg/piece,5.0,5.0,"[""MSP60*60*3.2C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 60*60*4(COIL),Pipes,"[60.0, 60.0, 4.0]",41.0,kg/piece,5.0,5.0,"[""MSP60*60*4C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 72*72*2(RAIPUR),Pipes,"[72.0, 72.0, 2.0]",27.0,kg/piece,5.0,5.0,"[""MSP72*72*2R""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 72*72*2(COIL),Pipes,"[72.0, 72.0, 2.0]",27.0,kg/piece,5.0,5.0,"[""MSP72*72*2C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 72*72*2.5(COIL),Pipes,"[72.0, 72.0, 2.5]",32.0,kg/piece,5.0,5.0,"[""MSP72*72*2.5C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 72*72*3(COIL),Pipes,"[72.0, 72.0, 3.0]",39.0,kg/piece,5.0,5.0,"[""MSP72*72*3C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 72*72*4(COIL),Pipes,"[72.0, 72.0, 4.0]",52.0,kg/piece,5.0,5.0,"[""MSP72*72*4C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 72*72*5(COIL),Pipes,"[72.0, 72.0, 5.0]",64.0,kg/piece,5.0,5.0,"[""MSP72*72*5C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 72*72*6(COIL),Pipes,"[72.0, 72.0, 6.0]",77.0,kg/piece,5.0,5.0,"[""MSP72*72*6C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 80*80*4 (COIL),Pipes,"[80.0, 80.0, 4.0]",58.0,kg/piece,5.0,5.0,"[""MSP80*80*4C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 80*80*4.8 (COIL),Pipes,"[80.0, 80.0, 4.8]",71.0,kg/piece,5.0,5.0,"[""MSP80*80*4.8C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 80*80*5 (COIL),Pipes,"[80.0, 80.0, 5.0]",69.0,kg/piece,5.0,5.0,"[""MSP80*80*5C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 80*80*6(COIL),Pipes,"[80.0, 80.0, 6.0]",83.0,kg/piece,5.0,5.0,"[""MSP80*80*6C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 100*100*2(COIL),Pipes,"[100.0, 100.0, 2.0]",37.0,kg/piece,5.0,5.0,"[""MSP100*100*2C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 100*100*2.5(COIL),Pipes,"[100.0, 100.0, 2.5]",47.0,kg/piece,5.0,5.0,"[""MSP100*100*2.5C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 100*100*3(COIL),Pipes,"[100.0, 100.0, 3.0]",55.0,kg/piece,5.0,5.0,"[""MSP100*100*3C""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 100*100*3.6(JINDAL),Pipes,"[100.0, 100.0, 3.6]",64.0,kg/piece,5.0,5.0,"[""MSP100*100*3J""]",MaterialStatusEnum.Active
+MS RECTANGLE PIPE 100*50*3(JINDAL),Pipes,"[100.0, 50.0, 3.0]",41.0,kg/piece,5.0,5.0,"[""MSP100*50*3J""]",MaterialStatusEnum.Active
+MS SQUARE PIPE 100*100*4(COIL),Pipes,"[100.0, 100.0, 4.0]",71.0,kg/piece,5.0,5.0,"[""MSP100*100*4C""]",MaterialStatusEnum.Active
+"MS ROUND PIPE 1/2"" *1.2MM RAIPUR",Pipes,"[1.0, 2.0, 1.2]",3.5,kg/piece,5.0,5.0,"[""MSPNB15*2R""]",MaterialStatusEnum.Active
+"MS ROUND PIPE 1/2"" *2MM JINDAL",Pipes,"[1.0, 2.0, 2.0]",6.0,kg/piece,5.0,5.0,"[""MSPNB15*2J""]",MaterialStatusEnum.Active
+"MS ROUND PIPE 1""(33 OD)*1.6mm(RAIPUR)",Pipes,"[1.0, 33.0, 1.6]",7.5,kg/piece,5.0,5.0,"[""MSPOD33*1.6R""]",MaterialStatusEnum.Active
+"MS ROUND PIPE 1""(33 OD)*2mm(COIL)",Pipes,"[1.0, 33.0, 2.0]",10.0,kg/piece,5.0,5.0,"[""MSPOD33*2C""]",MaterialStatusEnum.Active
+"MS ROUND PIPE 1 1/2"" (48 OD)*1.6mm(RAIPUR)",Pipes,"[1.0, 1.0, 2.0, 48.0, 1.6]",11.5,kg/piece,5.0,5.0,"[""MSPOD48*1.6R""]",MaterialStatusEnum.Active
+"MS ROUND PIPE 1 1/2"" (48 OD)*2mm(RAIPUR)",Pipes,"[1.0, 1.0, 2.0, 48.0, 2.0]",14.0,kg/piece,5.0,5.0,"[""MSPOD48*2R""]",MaterialStatusEnum.Active
+"MS ROUND PIPE 1 1/2"" (48 OD)*2.5mm(RAIPUR)",Pipes,"[1.0, 1.0, 2.0, 48.0, 2.5]",17.0,kg/piece,5.0,5.0,"[""MSPOD48*2.5R""]",MaterialStatusEnum.Active
+"MS ROUND PIPE 1 1/2"" (48 OD)*3mm(RAIPUR)",Pipes,"[1.0, 1.0, 2.0, 48.0, 3.0]",19.8,kg/piece,5.0,5.0,"[""MSPOD48*3R""]",MaterialStatusEnum.Active
+"MS ROUND PIPE 1 1/2"" (48 OD)*3mm(COIL)",Pipes,"[1.0, 1.0, 2.0, 48.0, 3.0]",19.8,kg/piece,5.0,5.0,"[""MSPOD48*3C""]",MaterialStatusEnum.Active
+"MS ROUND PIPE 1 1/2"" (48 OD)*2mm(COIL)",Pipes,"[1.0, 1.0, 2.0, 48.0, 2.0]",14.0,kg/piece,5.0,5.0,"[""MSPOD48*2C""]",MaterialStatusEnum.Active
+"MS ROUND PIPE 2"" (60 OD)*1.6mm(RAIPUR)",Pipes,"[2.0, 60.0, 1.6]",14.0,kg/piece,5.0,5.0,"[""MSPOD60*1.6R""]",MaterialStatusEnum.Active
+"MS ROUND PIPE 2"" (60 OD)*2mm(RAIPUR)",Pipes,"[2.0, 60.0, 2.0]",17.5,kg/piece,5.0,5.0,"[""MSPOD60*2R""]",MaterialStatusEnum.Active
+MS ROUND PIPE 125NB*3MM JINDAL,Pipes,"[125.0, 3.0]",57.0,kg/piece,5.0,5.0,"[""MSP125*3NBR""]",MaterialStatusEnum.Active
+MS ROUND PIPE 40NB*2.6MM JINDAL,Pipes,"[40.0, 2.6]",17.0,kg/piece,5.0,5.0,"[""MSP40*2.6NBJ""]",MaterialStatusEnum.Active
+MS ROUND PIPE 50NB*2MM RAIPUR,Pipes,"[50.0, 2.0]",18.0,kg/piece,5.0,5.0,"[""MSP50*2NBR""]",MaterialStatusEnum.Active
+MS ROUND PIPE 25NB*1.6MM RAIPUR,Pipes,"[25.0, 1.6]",7.5,kg/piece,5.0,5.0,"[""MSP25*1.6NBR""]",MaterialStatusEnum.Active
+MS ROUND PIPE 50NB*6MM APOLLO,Pipes,"[50.0, 6.0]",49.0,kg/piece,5.0,5.0,"[""MSP50*6NBA""]",MaterialStatusEnum.Active
+MS ROUND PIPE 25NB*3.2MM APOLLO,Pipes,"[25.0, 3.2]",15.0,kg/piece,5.0,5.0,"[""MSP25*3.2NBA""]",MaterialStatusEnum.Active
+MS ROUND PIPE 100NB*4MM JINDAL,Pipes,"[100.0, 4.0]",66.0,kg/piece,5.0,5.0,"[""MSP100*4NBJ""]",MaterialStatusEnum.Active
+MS PIPE RECTANGLE 40*20*1.6(RAIPUR),Pipes,"[40.0, 20.0, 1.6]",8.5,kg/piece,5.0,5.0,"[""MSP40*20*1.6R""]",MaterialStatusEnum.Active
+GP PIPE RECTANGLE 40*20*1.6,Pipes,"[40.0, 20.0, 1.6]",8.5,kg/piece,5.0,5.0,"[""GPP40*20*1.6R""]",MaterialStatusEnum.Active
+MS PIPE RECTANGLE 50*25*1.6(RAIPUR),Pipes,"[50.0, 25.0, 1.6]",11.0,kg/piece,5.0,5.0,"[""MSP50*25*1.6R""]",MaterialStatusEnum.Active
+MS PIPE RECTANGLE 50*25*2(RAIPUR),Pipes,"[50.0, 25.0, 2.0]",13.5,kg/piece,5.0,5.0,"[""MSP50*25*2R""]",MaterialStatusEnum.Active
+MS PIPE RECTANGLE 50*25*2(COIL),Pipes,"[50.0, 25.0, 2.0]",13.5,kg/piece,5.0,5.0,"[""MSP50*25*2C""]",MaterialStatusEnum.Active
+MS PIPE RECTANGLE 60*40*2(RAIPUR),Pipes,"[60.0, 40.0, 2.0]",18.0,kg/piece,5.0,5.0,"[""MSP60*40*2R""]",MaterialStatusEnum.Active
+MS PIPE RECTANGLE 80*40*2(RAIPUR),Pipes,"[80.0, 40.0, 2.0]",22.0,kg/piece,5.0,5.0,"[""MSP80*40*2R""]",MaterialStatusEnum.Active
+MS PIPE RECTANGLE 80*40*2(COIL),Pipes,"[80.0, 40.0, 2.0]",22.0,kg/piece,5.0,5.0,"[""MSP80*40*2C""]",MaterialStatusEnum.Active
+MS PIPE RECTANGLE 96*48*3(COIL),Pipes,"[96.0, 48.0, 3.0]",41.0,kg/piece,5.0,5.0,"[""MSP96*48*3C""]",MaterialStatusEnum.Active
+MS PIPE RECTANGLE 100*50*2 RAIPUR,Pipes,"[100.0, 50.0, 2.0]",27.5,kg/piece,5.0,5.0,"[""MSP100*50*2R""]",MaterialStatusEnum.Active
+MS PIPE RECTANGLE 122*61*2 RAIPUR,Pipes,"[122.0, 61.0, 2.0]",33.5,kg/piece,5.0,5.0,"[""MSP122*61*2R""]",MaterialStatusEnum.Active
+MS PIPE 80NB 2.5MM JINDAL,Pipes,"[80.0, 2.5]",45.0,kg/piece,5.0,5.0,"[""MSP80NB*2.5J""]",MaterialStatusEnum.Active
+MS PIPE 40*40*2 JINDAL,Pipes,"[40.0, 40.0, 2.0]",13.5,kg/piece,5.0,5.0,"[""MSP40*40*2J""]",MaterialStatusEnum.Active
+MS PIPE 32*32*2 JINDAL,Pipes,"[32.0, 32.0, 2.0]",12.0,kg/piece,5.0,5.0,"[""MSP32*32*2J""]",MaterialStatusEnum.Active
+MS PIPE 32*32*2.6 JINDAL,Pipes,"[32.0, 32.0, 2.6]",13.0,kg/piece,5.0,5.0,"[""MSP32*32*2.6J""]",MaterialStatusEnum.Active
+MS PIPE 32*32*2.9 JINDAL,Pipes,"[32.0, 32.0, 2.9]",15.5,kg/piece,5.0,5.0,"[""MSP32*32*2.9J""]",MaterialStatusEnum.Active
+MS PIPE 25*25*2 JINDAL,Pipes,"[25.0, 25.0, 2.0]",9.0,kg/piece,5.0,5.0,"[""MSP25*25*2J""]",MaterialStatusEnum.Active
+MS PIPE 20*20*2 JINDAL,Pipes,"[20.0, 20.0, 2.0]",7.0,kg/piece,5.0,5.0,"[""MSP20*20*2J""]",MaterialStatusEnum.Active
+MS PIPE 72*72*3 SEMI COIL,Pipes,"[72.0, 72.0, 3.0]",39.0,kg/piece,5.0,5.0,"[""MSP72*72*3SC""]",MaterialStatusEnum.Active
+MS PIPE 80*40*3 SEMI COIL,Pipes,"[80.0, 40.0, 3.0]",31.5,kg/piece,5.0,5.0,"[""MSP80*40*3SC""]",MaterialStatusEnum.Active
+MS PIPE 150*150*3 JINDAL,Pipes,"[150.0, 150.0, 3.0]",83.0,kg/piece,5.0,5.0,"[""MSP150*150*3J""]",MaterialStatusEnum.Active
+MS PIPE 150*150*5 JINDAL,Pipes,"[150.0, 150.0, 5.0]",137.0,kg/piece,5.0,5.0,"[""MSP150*150*5J""]",MaterialStatusEnum.Active
+MS PIPE 200*100*4 JINDAL,Pipes,"[200.0, 100.0, 4.0]",108.0,kg/piece,5.0,5.0,"[""MSP200*100*4J""]",MaterialStatusEnum.Active
+MS PIPE 100*100*4 SAMBHAV,Pipes,"[100.0, 100.0, 4.0]",240.0,kg/piece,5.0,5.0,"[""MSP100*100*4S""]",MaterialStatusEnum.Active
+MS PIPE 60*40*2.9 SAMBHAV,Pipes,"[60.0, 40.0, 2.9]",85.0,kg/piece,5.0,5.0,"[""MSP60*40*2.9S""]",MaterialStatusEnum.Active
+MS PIPE 50*50*2.9 SAMBHAV,Pipes,"[50.0, 50.0, 2.9]",26.0,kg/piece,5.0,5.0,"[""MSP50*50*2.9S""]",MaterialStatusEnum.Active
+MS PIPE 150*150*5 SAMBHAV,Pipes,"[150.0, 150.0, 5.0]",135.0,kg/piece,5.0,5.0,"[""MSP150*150*5S""]",MaterialStatusEnum.Active
+MS PIPE 60*40*26 JINDAL,Pipes,"[60.0, 40.0, 26.0]",23.0,kg/piece,5.0,5.0,"[""MSP60*40*2.6J""]",MaterialStatusEnum.Active
+MS PIPE 40*40*2.6 JINDAL,Pipes,"[40.0, 40.0, 2.6]",17.0,kg/piece,5.0,5.0,"[""MSP40*40*2.6J""]",MaterialStatusEnum.Active
+MS PIPE 100*100*4 JINDAL,Pipes,"[100.0, 100.0, 4.0]",73.0,kg/piece,5.0,5.0,"[""MSP100*100*4J""]",MaterialStatusEnum.Active
+GP PIPES 20*20*1.6,Pipes,"[20.0, 20.0, 1.6]",5.5,kg/piece,5.0,5.0,"[""GPP20*20*1.6""]",MaterialStatusEnum.Active
+GP PIPES 30*30*1.6,Pipes,"[30.0, 30.0, 1.6]",8.6,kg/piece,5.0,5.0,"[""GPP30*30*1.6""]",MaterialStatusEnum.Active
+GP PIPES 30*30*2,Pipes,"[30.0, 30.0, 2.0]",11.5,kg/piece,5.0,5.0,"[""GPP30*30*2""]",MaterialStatusEnum.Active
+GP PIPES 50*50*2,Pipes,"[50.0, 50.0, 2.0]",18.0,kg/piece,5.0,5.0,"[""GPP50*20*2""]",MaterialStatusEnum.Active
+GP PIPES 72*72*2,Pipes,"[72.0, 72.0, 2.0]",26.0,kg/piece,5.0,5.0,"[""GPP72*72*2""]",MaterialStatusEnum.Active
+GP PIPES 80*40*2,Pipes,"[80.0, 40.0, 2.0]",22.0,kg/piece,5.0,5.0,"[""GPP80*40*2""]",MaterialStatusEnum.Active
+GP PIPES 60*40*1.4,Pipes,"[60.0, 40.0, 1.4]",13.5,kg/piece,5.0,5.0,"[""GPP60*40*1.4""]",MaterialStatusEnum.Active
+GP PIPES 60*40*1.6,Pipes,"[60.0, 40.0, 1.6]",14.5,kg/piece,5.0,5.0,"[""GPP60*40*1.6""]",MaterialStatusEnum.Active
+GP PIPES 25*25*1.6,Pipes,"[25.0, 25.0, 1.6]",7.5,kg/piece,5.0,5.0,"[""GPP25*25*1.6""]",MaterialStatusEnum.Active
+GP PIPES 40*40*1.6,Pipes,"[40.0, 40.0, 1.6]",11.0,kg/piece,5.0,5.0,"[""GPP40*40*1.6""]",MaterialStatusEnum.Active
+GP PIPES 40*40*2,Pipes,"[40.0, 40.0, 2.0]",14.5,kg/piece,5.0,5.0,"[""GPP40*40*2""]",MaterialStatusEnum.Active
+GP PIPES 50*50*1.6,Pipes,"[50.0, 50.0, 1.6]",14.5,kg/piece,5.0,5.0,"[""GPP50*50*1.6""]",MaterialStatusEnum.Active
+GP PIPES 100*100*2,Pipes,"[100.0, 100.0, 2.0]",37.0,kg/piece,5.0,5.0,"[""GPP100*100*2""]",MaterialStatusEnum.Active
+GP PIPES 38*38*2,Pipes,"[38.0, 38.0, 2.0]",14.5,kg/piece,5.0,5.0,"[""GPP38*38*2""]",MaterialStatusEnum.Active
+GP PIPES 25*25*1.6,Pipes,"[25.0, 25.0, 1.6]",7.5,kg/piece,5.0,5.0,"[""GPP25*25*1.6""]",MaterialStatusEnum.Active
+GP PIPES 25*25*2,Pipes,"[25.0, 25.0, 2.0]",9.0,kg/piece,5.0,5.0,"[""GPP25*25*2""]",MaterialStatusEnum.Active
+GP PIPES 60*60*1.8,Pipes,"[60.0, 60.0, 1.8]",20.0,kg/piece,5.0,5.0,"[""GPP60*60*1.8""]",MaterialStatusEnum.Active
+GP PIPES RECTANGLE 100*50*2 RAIPUR,Pipes,"[100.0, 50.0, 2.0]",27.5,kg/piece,5.0,5.0,"[""GPP100*50*2R""]",MaterialStatusEnum.Active
+GP PIPES 11/2 ROUND 1.8MM,Pipes,"[11.0, 2.0, 1.8]",12.5,kg/piece,5.0,5.0,"[""GPP1-1/2*1.8""]",MaterialStatusEnum.Active
+GP PIPES 1 ROUND 2MM,Pipes,"[1.0, 2.0]",9.4,kg/piece,5.0,5.0,"[""GPP1*2""]",MaterialStatusEnum.Active
+GP PIPES 3 ROUND 2MM,Pipes,"[3.0, 2.0]",26.0,kg/piece,5.0,5.0,"[""GPP3*2""]",MaterialStatusEnum.Active
+GP PIPES 3/4 ROUND 2MM,Pipes,"[3.0, 4.0, 2.0]",7.5,kg/piece,5.0,5.0,"[""GPP3/4*2""]",MaterialStatusEnum.Active
+ISA 50x50x5,Angles,"[50.0, 50.0, 5.0]",3.8,kg/m,5.0,8.0,"[""ANG"", ""ANGLE"", ""ANG50""]",MaterialStatusEnum.Active
+ISA 65x65x6,Angles,"[65.0, 65.0, 6.0]",5.8,kg/m,5.0,5.0,"[""ANG65""]",MaterialStatusEnum.Active
+MS PLATE 12*1.25*2.5,Plates,"[12.0, 1.25, 2.5]",300.0,kg/piece,5.0,5.0,"[""MS12*1.25*2.5""]",MaterialStatusEnum.Active

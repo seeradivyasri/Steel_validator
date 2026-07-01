@@ -1,0 +1,24 @@
+{
+    "invoice_number": "INV-2026-001",
+    "bill_timestamp": "2026-06-09T14:30:00Z",
+    "items": [
+        {
+            "raw_material_text": "MS ANG 50*50*5",
+            "entered_weight": 52.0,
+            "quantity": 12,
+            "unit": "m"
+        },
+        {
+            "raw_material_text": "TMT 12MM BARS",
+            "entered_weight": 110.0,
+            "quantity": 100,
+            "unit": "m"
+        },
+        {
+            "raw_material_text": "ISMB 200 BEAM",
+            "entered_weight": 40.0,
+            "quantity": 5,
+            "unit": "m"
+        }
+    ]
+}
